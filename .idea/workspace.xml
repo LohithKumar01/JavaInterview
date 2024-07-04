@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75b10123-fcb0-4c00-8236-71047fb819d6" name="Changes" comment="" />
+    <list default="true" id="75b10123-fcb0-4c00-8236-71047fb819d6" name="Changes" comment="Added Project Files.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/regularexpressions/RegexEmailFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/StreamExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/HashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/HashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/LinkedHashSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/LinkedHashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/collections/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/collections/TreeSetExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +41,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HashSetExample.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.LinkedHashSetExample.executor": "Run",
+    "Application.LinkedListTest.executor": "Run",
+    "Application.RegexEmailFormat.executor": "Run",
+    "Application.RegexExample.executor": "Run",
     "Application.ReverseOfString.executor": "Run",
+    "Application.StreamSort.executor": "Run",
+    "Application.ThreadClassExample.executor": "Run",
+    "Application.TreeSetExample.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -41,7 +58,8 @@
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -61,6 +79,19 @@
       <option name="presentableId" value="Default" />
       <updated>1716494081591</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Project Files.">
+      <option name="closed" value="true" />
+      <created>1718228885654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718228885654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Project Files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Project Files." />
   </component>
 </project>
